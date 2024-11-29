@@ -1,0 +1,56 @@
+{
+  "keyMappings": "map H goBack\nmap L goForward\nmap K previousTab\nmap J nextTab\nmap s LinkHints.activateMode\nmap S LinkHints.activateModeToOpenInNewTab\nmap <c-d> scrollPageDown\nmap <c-u> scrollPageUp\nmap <c-b> scrollFullPageUp\nmap <c-f> scrollFullPageDown\nmap ; scrollPageDown",
+  "linkHintCharacters": "yuophjklnm",
+  "grabBackFocus": true,
+  "settingsVersion": "2.1.2",
+  "exclusionRules": [
+    {
+      "passKeys": "",
+      "pattern": "https?://mail.google.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://sushida.net/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://cloudquest.skillbuilder.aws/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://codesandbox.io/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://remap-keys.app/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.speedtypingonline.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://www.e-typing.ne.jp/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://chat.openai.com/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://localhost:8888/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://app.diagrams.net/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://o24.works/*"
+    },
+    {
+      "passKeys": "",
+      "pattern": "https?://usevia.app/*"
+    }
+  ]
+}
